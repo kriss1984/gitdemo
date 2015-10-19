@@ -8,6 +8,7 @@ public class TestCase {
 	   System.out.print("First Test");
        Date  date = new Date();
        //中文
+       //第三次
 	}
 
 }
